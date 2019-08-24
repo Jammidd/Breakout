@@ -4,6 +4,7 @@ html,body{
 
 ul{
 	list-style: none;
+	padding: 0;
 }
 
 ul button{
@@ -53,7 +54,6 @@ ul li button:hover{
 #main-menu{
 	display: block;
 	cursor: pointer;
-	margin: 0 -2%;
 }
 
 #play-game{
